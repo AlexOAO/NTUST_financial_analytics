@@ -1,2 +1,2 @@
-# jeremychou
-NTUST_financial_data_analysis
+# NTUST_financial_analysis
+NTUST_financial_analysis
